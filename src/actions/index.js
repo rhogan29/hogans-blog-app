@@ -15,3 +15,7 @@ export function fetchPosts() {
         payload: request
     };
 }
+
+export function createPost(values) {
+    
+}
